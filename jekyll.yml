@@ -1,0 +1,15 @@
+name: Build and Deploy Jekyll
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-ruby@v1
+      - name: Build with Jekyll
+        run: |
+          gem install bundler jekyll
+          jekyll build
