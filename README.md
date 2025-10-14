@@ -17,8 +17,8 @@ Live Site: [https://pvamarkets.github.io](https://pvamarkets.github.io)
 ---
 
 ## 📦 Core Offerings
-- Buy Twitter Accounts  
-- Buy TikTok Accounts  
+- [Buy Twitter Accounts](https://pvamarkets.com/catalog/tiktok/)  
+- [Buy TikTok Accounts](https://pvamarkets.com/catalog/tiktok/)  
 - Buy YouTube Channels  
 - Buy Telegram Accounts  
 - Buy Gmail & Facebook PVAs  
